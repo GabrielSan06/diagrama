@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Página-1" id="uA3E3CaAqnNaReNjKE_F">
+    <mxGraphModel dx="2739" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HxI0b8lctygO-oxScQYs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-142.9" y="-455.9" width="580.31" height="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-3" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-4" value="Comprar passagem" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="222.45" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-5" value="Venda de Passagens aéreas pela internet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-173.64999999999995" y="79.32" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-6" value="Local de origem" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="149.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-7" value="Destino" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="259.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-9" value="tipo de passagem" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="399.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-12" value="Apenas ida" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-210.13" y="319.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-13" value="Ida e volta" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-230.13" y="469.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-14" value="Data de retorno" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-50.129999999999995" y="519.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-16" value="Data de partida" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-50.129999999999995" y="389.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-18" value="Consultar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="129.87" y="449.32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-19" value="Visualizar os horários e classes disponíveis" style="shape=card;whiteSpace=wrap;html=1;size=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="191.51" y="534.32" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HxI0b8lctygO-oxScQYs-20" value="Comprar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="259.87" y="399.32" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
